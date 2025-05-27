@@ -222,6 +222,7 @@ data/pusht_eval_output
     ├── 2in4cn7a.mp4
     ├── 34b3o2qq.mp4
     └── 3p7jqn32.mp4
+    
 
 1 directory, 7 files
 ```
